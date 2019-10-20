@@ -1,11 +1,13 @@
 # Super-Resolution
+A new approach for Image Super Resolution using Convolutional Neural Networks.
 
 Data Sample:
 
 ![picture](data_sample/sample.png)
 
+Input - Output:
 
-Created on Oct. 14, 2019.
+![picture](data_sample/input_output.jpg)
 
 Oct. 2019
 
