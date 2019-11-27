@@ -15,7 +15,7 @@ Grid appears in the produced output.
 <img src="data_sample/slidingwindowproblem.png" width="800">
 
 ## 3. Solution
-Use smaller stride steps than the window size.
+Use smaller stride steps than the window size, and use only the center region to produce the super resolution.
 <img src="data_sample/sw_solution.png" width="800">
 
 The difference between stride step of 5 and 3.
