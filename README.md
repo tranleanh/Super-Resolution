@@ -34,10 +34,14 @@ Grid appears in the produced output.
 Use smaller stride steps than the window size, and use only the center region to produce the super resolution.
 <img src="data_sample/sw_solution.png" width="800">
 
-The difference between stride step of 5 and 3.
+The difference between stride step of 5 and 3:
 
 <img src="data_sample/stride_5_3.png" width="800">
 
-Last Update in Nov. 2019
+Result (Upscaling Factor = 2):
+
+<img src="data_sample/input_output_sample.jpg" width="800">
+
+Last Update on Dec. 20, 2019
 
 Tran Le Anh
