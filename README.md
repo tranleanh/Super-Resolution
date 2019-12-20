@@ -24,7 +24,9 @@ File: edge_hierarchy_super_resolution_7x7.ipynb
 Sliding Window Technique: 
 
 Input Image => 5x5 patch => CNN Model => 10x10 patch => Full Super-Resolution Image
-
+```bashrc
+File: super_resolution_sliding_window.ipynb
+```
 <img src="data_sample/input_output.jpg" width="800">
 
 <img src="data_sample/input_output_cr7.jpg" width="800">
