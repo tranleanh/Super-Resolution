@@ -1,5 +1,4 @@
-# A new approach for Image Super Resolution 
-A new approach for Image Super Resolution using Convolutional Neural Networks.
+# Edge Hierarchy Super Resolution 
 
 STATUS: UPDATING...
 
