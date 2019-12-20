@@ -16,6 +16,10 @@ File: bicubic_error_super_resolution.ipynb
 
 [Paper 5: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
 
+Our:
+```bashrc
+File: edge_hierarchy_super_resolution_7x7.ipynb
+```
 ## 1. Basic Idea
 Sliding Window Technique: 
 
