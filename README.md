@@ -49,6 +49,7 @@ Result (Upscaling Factor = 2):
 <img src="data_sample/input_output_sample.jpg" width="800">
 
 Created on Nov. 1, 2019
+
 Last Update on Dec. 30, 2019
 
 Tran Le Anh
