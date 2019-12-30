@@ -10,11 +10,11 @@ File: bicubic_error_super_resolution.ipynb
 
 [Paper 2: Image Super-Resolution Using Deep Convolutional Networks (SRCNN)](https://arxiv.org/abs/1501.00092)
 
-[Paper 3: Accelerating the Super-Resolution Convolutional Neural Network](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
+[Paper 3: Accelerating the Super-Resolution Convolutional Neural Network (FSRCNN)](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)
 
-[Paper 4: Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
+[Paper 4: Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network (ESPCN)](https://arxiv.org/abs/1609.05158)
 
-[Paper 5: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)
+[Paper 5: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)](https://arxiv.org/abs/1609.04802)
 
 Our:
 ```bashrc
@@ -48,6 +48,7 @@ Result (Upscaling Factor = 2):
 
 <img src="data_sample/input_output_sample.jpg" width="800">
 
-Last Update on Dec. 20, 2019
+Created on Nov. 1, 2019
+Last Update on Dec. 30, 2019
 
 Tran Le Anh
